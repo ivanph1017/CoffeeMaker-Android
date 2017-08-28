@@ -14,18 +14,22 @@ Also, there is a couple of float ball liquid sensors in the cold water tank moni
 -	[CoffeeMaker-Android project](https://github.com/ivanph1017/CoffeeMaker-Android)
 
 <div style="width:90%;margin:auto;">
-<img style="margin:20px;" src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/intro.gif" alt="Intro" height="480" width="288"/>
-  <span>
-    <img style="margin:20px;"
-src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/preparingCoffee.gif" alt="Preparing coffee" height="480" width="288"/></span>
-
+    <img style="margin:20px;" src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/intro.gif" alt="Intro" height="480" width="288"/>
+    <span>
+        <img style="margin:20px;"
+        src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/waterFilling.gif" alt="Water filling" height="480" width="288"/>
+    </span>
+    <span>
+        <img style="margin:20px;"
+        src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/preparingCoffee.gif" alt="Preparing coffee" height="480" width="288"/>
+    </span>
 </div>
 
 <div style="width:90%;margin:auto;">
-<img style="margin:20px;" src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/coffeeReady.gif" alt="Coffee ready" height="480" width="288"/>
-  <span>
-    <img style="margin:20px;"
-src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/coffeeMakerResting.gif" alt="Coffee ready" height="480" width="288"/>
+    <img style="margin:20px;" src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/coffeeReady.gif" alt="Coffee ready" height="480" width="288"/>
+    <span>
+        <img style="margin:20px;"
+        src="https://raw.githubusercontent.com/ivanph1017/AssetsRepo/master/CoffeeMaker/coffeeMakerResting.gif" alt="Coffee ready" height="480" width="288"/>
   </span>
 </div>
 
